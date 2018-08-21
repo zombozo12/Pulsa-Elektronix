@@ -1,0 +1,54 @@
+%%Excelsior JET v10.5 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui-
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageAppearance
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.gc.no.swap -Djet.stack.trace
+-main=PulsaElektronix/PE_login
+-outputdir=.
+-outputname=Pulsa Elektronix
+-saprofmode=NONE
+-stacklimit=10485760
+-versioninfocompanyname=Pulsa Elektronix
+-versioninfofiledescription=Cara Cepat Isi Pulsa !
+-versioninfolegalcopyright=Copyright \x00a9 2015 Pulsa Elektronix
+-versioninfoproductname=Pulsa Elektronix
+-versioninfoproductversion=1.0.0.0
+
+
+
+
+!classpathentry ./dist/Pulsa_Elektronix.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ./dist/lib/mysql-connector-java-5.1.23-bin.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/rs2xml.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+
+!module ./src/PulsaElektronix/e-pulsa.ico
+

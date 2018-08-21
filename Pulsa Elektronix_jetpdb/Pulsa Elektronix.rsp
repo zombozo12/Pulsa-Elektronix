@@ -1,0 +1,37 @@
+
+-x64
+-PIC
+-jetcomponent=10.50
+-jetedition=Evaluation
+-vcode=5
+-sys=C
+-nosmart
+-zimer=0
+-stack=10485760
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.gc.no.swap -Djet.stack.trace
+-config=ClassPath:dist/Pulsa_Elektronix.jar;dist/lib/mysql-connector-java-5.1.23-bin.jar;dist/lib/rs2xml.jar
+-config=JETProfile:5
+-config=JETProfileName:1.7.0_55
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=C:/Users/ASUS/Documents/NetBeansProjects/Pulsa Elektronix/Pulsa Elektronix_jetpdb/Pulsa Elektronix.efs
+-config=MainClass:PulsaElektronix/PE_login
+-config=VersionInfo:jet-1050-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.7.0_55; JET update level: 0; CPU architecture: amd64
+-name=Pulsa Elektronix.exe
+C:\Users\ASUS\Documents\NetBeansProjects\Pulsa Elektronix\Pulsa Elektronix_jetpdb\version.res
+
+-entry=ExeEntryPoint
+
+-LinkFileAsRData=LINK_SplashPicture:C:\Program Files\jet10.5-eval-amd64\lib\x86\dummysplash.lib
+C:\Program Files\jet10.5-eval-amd64\lib\x86\startup-exe-normal.zip
+-GenExceptionInfo=JR_SystemExceptionHandler
+-config=PackagingOptions:component_microversions=BC-0
+C:\Users\ASUS\Documents\NetBeansProjects\Pulsa Elektronix\Pulsa Elektronix_jetpdb\obj.zip
+-Config=RTComponent:XKRN10505.dll
+C:\Program Files\jet10.5-eval-amd64\lib\x86\startup-rtlink.zip
+C:\Program Files\jet10.5-eval-amd64\lib\x86\import32.lib
+src\PulsaElektronix\e-pulsa.ico
+C:\Program Files\jet10.5-eval-amd64\lib\x86\app.res
+-StrictLinkToDLL
+

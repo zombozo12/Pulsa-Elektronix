@@ -1,0 +1,10 @@
+1
+"."
+1
+  DIR "dist" "dist" HIDDEN
+  2
+    DIR "lib" "dist\lib" HIDDEN
+    2
+      FILE "mysql-connector-java-5.1.23-bin.jar" "C:\Users\ASUS\Documents\NetBeansProjects\Pulsa Elektronix\Pulsa Elektronix_jetpdb\tmpres\mysql-connector-java-5.1.23-bin__1.jar" HIDDEN
+      FILE "rs2xml.jar" "C:\Users\ASUS\Documents\NetBeansProjects\Pulsa Elektronix\Pulsa Elektronix_jetpdb\tmpres\rs2xml__2.jar" HIDDEN
+    FILE "Pulsa_Elektronix.jar" "C:\Users\ASUS\Documents\NetBeansProjects\Pulsa Elektronix\Pulsa Elektronix_jetpdb\tmpres\Pulsa_Elektronix__0.jar" HIDDEN

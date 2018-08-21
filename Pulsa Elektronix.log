@@ -1,0 +1,46 @@
+Excelsior JET v10.5 Evaluation Version 64-bit (c) Excelsior 1997,2013
+Active Java SE Version 1.7.0_55 (profile 5)
+************************  JET v10.5 EVALUATION **************************
+*  This program cannot be used in a business, commercial, government,  *
+*  or  institutional  environment  except  for  evaluation  purposes.  *
+************************************************************************
+Make project "C:\Users\ASUS\Documents\NetBeansProjects\Pulsa Elektronix\Pulsa Elektronix.prj"
+64-bit Excelsior JET for Windows does not yet support Startup Accelerator
+Reading dist/Pulsa_Elektronix.jar ...  48 classes
+Reading dist/lib/mysql-connector-java-5.1.23-bin.jar ...  265 classes
+Reading dist/lib/rs2xml.jar ...  83 classes
+
+Total compilable classes within classpath entries: 396
+
+------------------------  Parsing Stage  ---------------------------------------
+
+
+List of classes with absent superclass or superinterface:
+  com/mysql/jdbc/integration/c3p0/MysqlConnectionTester 
+	superclass com/mchange/v2/c3p0/QueryConnectionTester
+  com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter 
+	superclass org/jboss/resource/adapter/jdbc/vendor/MySQLExceptionSorter
+  com/mysql/jdbc/integration/jboss/MysqlValidConnectionChecker 
+	superclass org/jboss/resource/adapter/jdbc/ValidConnectionChecker
+  org/jdom/xpath/JaxenXPath$NSContext 
+	superclass org/jaxen/SimpleNamespaceContext
+New "C:/Users/ASUS/Documents/NetBeansProjects/Pulsa Elektronix/Pulsa Elektronix_jetpdb/nums.clnums" is generated
+#project is up to date
+Preparing resources for packing ...
+Processing dist/Pulsa_Elektronix.jar ...
+Processing dist/lib/mysql-connector-java-5.1.23-bin.jar ...
+Processing dist/lib/rs2xml.jar ...
+Resources were successfully prepared for packing.
+
+XDS Link Version 2.24.14 Copyright (c) Excelsior 1995-2014.
+Error (17): Illegal file format - src\PulsaElektronix\e-pulsa.ico
+1 error, no warnings
+Fault 439 -  external command fault 255:
+xlink @"C:/Users/ASUS/Documents/NetBeansProjects/Pulsa Elektronix/Pulsa Elektronix_jetpdb/Pulsa Elektronix.rsp"
+external command fault 255:
+xlink @"C:/Users/ASUS/Documents/NetBeansProjects/Pulsa Elektronix/Pulsa Elektronix_jetpdb/Pulsa Elektronix.rsp"
+
+Link time 0:01.21
+
+Total compilation time 0:14.32
+
